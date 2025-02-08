@@ -26,3 +26,12 @@ body {
   margin: 0 auto;  /* Centers the container */
   text-align: left; /* Keeps text aligned to the left */
 }
+
+.calculator{
+  max-width: 250px;
+  margin: 0 auto;
+}
+
+.footnote{
+  font-size: 65%;
+}
